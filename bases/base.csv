@@ -1,0 +1,968 @@
+,Valor,Tipo,Endereco,Iptu,Condominio,m2,quartos,vagas
+0,175000,Casa, Milionários ,0,0,120,3,0
+1,250000,Casa, Jardim Felicidade ,0,0,150,3,3
+2,700000,Apartamento, Santo Antônio ,0,577,150,3,2
+3,280000,Casa, Milionários ,0,83,180,2,3
+4,255000,Casa em condomínio, Miramar (barreiro) ,0,100,120,2,1
+5,180000,Apartamento, Manacás ,0,35,73,3,1
+6,740000,Apartamento, Jardim América ,0,550,144,3,1
+7,250000,Casa, Miramar (barreiro) ,0,0,120,2,1
+8,515000,Apartamento, Prado ,0,436,123,3,2
+9,280000,Apartamento, João Pinheiro ,0,290,93,3,1
+10,769000,Apartamento, Itapoã ,0,630,100,3,2
+11,240000,Casa, Sagrada Família ,0,42,90,3,0
+12,740000,Apartamento, Buritis ,0,1115,100,3,2
+13,235000,Apartamento, Horto Florestal ,0,100,50,1,1
+14,1090000,Apartamento, Cruzeiro ,0,400300,191,4,2
+15,630000,Apartamento, Castelo ,0,617,125,2,2
+16,1100000,Apartamento, Santo Antônio ,0,814,156,3,3
+17,920000,Apartamento, Lourdes ,0,1100,82,2,2
+18,910000,Apartamento, Santa Rosa ,0,496,151,4,3
+19,360000,Apartamento, Santa Terezinha ,0,250,75,2,1
+20,220000,Casa, Havaí ,0,220000,250,4,2
+21,150000,Casa, Paraíso ,0,0,95,1,1
+22,245000,Apartamento, Centro ,0,0,92,2,0
+23,260000,Apartamento, Serrano ,0,327,47,2,1
+24,350000,Apartamento, Gutierrez ,0,510,85,3,1
+25,530000,Apartamento, Sion ,0,1335,72,2,2
+26,365000,Apartamento, Cidade Nova ,0,579,48,2,1
+27,180000,Apartamento, Heliópolis ,0,169,60,2,1
+28,250000,Apartamento, Santa Terezinha ,0,345,75,3,2
+29,300000,Casa, São Gabriel ,0,145,236,3,2
+30,270000,Apartamento, Padre Eustáquio ,0,450,76,3,1
+31,750000,Apartamento, Buritis ,0,1500,105,3,2
+32,280000,Apartamento, Santa Efigênia ,0,350,60,2,1
+33,600000,Apartamento, Santo Antônio ,0,612,90,3,1
+34,355000,Apartamento, Alto Barroca ,0,300,86,3,1
+35,320000,Apartamento, Buritis ,0,258,59,2,1
+36,320000,Apartamento, Buritis ,0,258,59,2,1
+37,1350000,Apartamento, Carmo ,0,1404,105,2,2
+38,260000,Apartamento, Estoril ,0,253,65,3,1
+39,740000,Apartamento, Coracao de Jesus ,0,1717,106,3,1
+40,300000,Apartamento, Silveira ,0,625,80,4,1
+41,370000,Apartamento, Nova Suíça ,0,455,75,3,1
+42,198000,Apartamento, Nova Gameleira ,0,251,60,2,1
+43,290000,Apartamento, Graça ,0,344,68,2,1
+44,250000,Apartamento, Santa Cruz ,0,490,75,3,1
+45,420000,Apartamento, Santa Ines ,0,545,67,3,1
+46,160000,Casa, Zilah Sposito ,0,0,2000,3,1
+47,600000,Apartamento, Santo Antônio ,0,1101,110,3,2
+48,285000,Apartamento, Estrela do Oriente ,0,275,70,2,1
+49,320000,Apartamento, Nova Suíça ,0,507,112,3,1
+50,360000,Casa, Havaí ,0,117,90,3,1
+51,200000,Apartamento, Camargos ,0,200,52,2,1
+52,490000,Apartamento, Fernão Dias ,0,334,122,2,2
+53,180000,Apartamento, Nova Cachoeirinha ,0,205,56,2,1
+54,400000,Apartamento, Graça ,0,550,68,3,2
+55,190000,Apartamento, São Gabriel ,0,340,44,2,1
+56,660000,Apartamento, Colégio Batista ,0,559,89,3,2
+57,390000,Apartamento, Luxemburgo ,0,672,50,1,2
+58,155000,Apartamento, Dom Silverio ,0,190,49,2,1
+59,480000,Apartamento, Renascença ,0,291,200,3,1
+60,425000,Apartamento, Concórdia ,0,451,74,3,1
+61,170000,Apartamento, São Tomaz ,0,123,60,2,2
+62,380000,Apartamento, Alto Caiçaras ,0,375,140,2,2
+63,670000,Apartamento, Silveira ,0,1148,219,4,3
+64,339000,Studio e kitnet, Lourdes ,0,1317,27,1,1
+65,200000,Apartamento, Jd Vitoria ,0,200,60,2,0
+66,649000,Apartamento, Buritis ,0,720,137,4,2
+67,350000,Apartamento, Carlos Prates ,0,525,97,3,1
+68,450000,Apartamento, Jardim America ,0,358,150,3,1
+69,400000,Apartamento, Renascença ,0,292,90,3,2
+70,310000,Apartamento, Cachoeirinha ,0,595,111,3,1
+71,370000,Apartamento, Lourdes ,0,1500,72,1,1
+72,290000,Apartamento, Alto Barroca ,0,340,80,2,1
+73,285000,Apartamento, Padre Eustáquio ,0,355,60,3,1
+74,375000,Apartamento, Cinquentenario ,0,620,75,3,1
+75,850000,Apartamento, Santa Tereza ,0,425,169,3,2
+76,690000,Apartamento, Sagrada Família ,0,467,180,3,2
+77,210000,Apartamento, São Gabriel ,0,160,75,3,1
+78,260000,Apartamento, Prado ,0,332,70,3,1
+79,310000,Casa, Jaqueline ,0,116,114,2,1
+80,490000,Apartamento, Santo Antônio ,0,735,120,3,3
+81,460000,Apartamento, Santo Antônio ,0,1224,84,2,1
+82,259000,Casa, Santa Terezinha ,0,200,60,2,1
+83,380000,Apartamento, Carlos Prates ,0,342,100,3,1
+84,970000,Apartamento, Santa Efigênia ,0,1538,96,3,2
+85,260000,Apartamento, Santa Inês ,0,145,55,2,1
+86,340000,Apartamento, Cidade Nova ,0,468,60,3,1
+87,250000,Apartamento, Madre Gertrudes ,0,360,95,3,1
+88,310000,Apartamento, Manacás ,0,770,56,2,1
+89,1360000,Apartamento, Funcionários ,0,691,85,3,3
+90,590000,Apartamento, Cidade Nova ,0,510,180,4,2
+91,490000,Apartamento, Buritis ,0,688,66,2,2
+92,320000,Apartamento, Sagrada Família ,0,416,68,3,1
+93,495000,Apartamento, Serra ,0,790,130,4,2
+94,530000,Apartamento, Grajaú ,0,454,90,3,1
+95,585000,Apartamento, Luxemburgo ,0,787,156,3,1
+96,320000,Apartamento, Centro ,0,1047,100,3,0
+97,260000,Apartamento, Serrano ,0,494,57,2,1
+98,295000,Apartamento, Santa Maria ,0,461,52,2,1
+99,500000,Apartamento, Santa Tereza ,0,250,120,3,1
+100,1200000,Apartamento, Sion ,0,1475,107,3,2
+101,255000,Apartamento, Santa Terezinha ,0,367,72,3,2
+102,750000,Apartamento, Funcionários ,0,841,90,3,0
+103,350000,Apartamento, Funcionários ,0,459,86,2,0
+104,375000,Apartamento, Nova Suíça ,0,303,70,3,2
+105,425000,Apartamento, Serra ,0,915,103,3,1
+106,690000,Apartamento, Prado ,0,553,78,3,2
+107,380000,Apartamento, Santo Antônio ,0,550,100,3,1
+108,350000,Apartamento, Nova Floresta ,0,668,70,2,1
+109,1990000,Apartamento, Belvedere ,0,1349,170,2,2
+110,450000,Apartamento, Santo Antônio ,0,579,95,3,2
+111,450000,Apartamento, Castelo ,0,401,123,2,1
+112,692000,Casa, Diamante ,0,122,180,2,4
+113,390000,Casa, Santo André ,0,117,180,3,3
+114,729000,Apartamento, Coracao de Jesus ,0,827,70,2,1
+115,330000,Apartamento, Padre Eustáquio ,0,748,73,3,1
+116,150000,Casa, São Tomáz ,0,0,120,2,0
+117,450000,Apartamento, Santo Agostinho ,0,1015,40,1,1
+118,400000,Casa, Bernardo Monteiro ,0,60,200,3,3
+119,1099000,Apartamento, Gutierrez ,0,1020,125,4,2
+120,400000,Casa, Bernardo Monteiro ,0,60,200,3,3
+121,380000,Apartamento, Castelo ,0,395,80,2,1
+122,1099000,Apartamento, Gutierrez ,0,1020,125,4,2
+123,255000,Apartamento, Nova Gameleira ,0,233,109,2,1
+124,250000,Apartamento, Havaí ,0,0,75,3,1
+125,580000,Apartamento, Santo Antônio ,0,944,80,3,1
+126,750000,Apartamento, Dona Clara ,0,600,90,3,2
+127,797000,Apartamento, São Pedro ,0,1157,78,2,3
+128,650000,Apartamento, Sion ,0,1150,170,3,1
+129,320000,Casa, Ipiranga ,0,0,140,3,0
+130,650000,Apartamento, Sion ,0,833,67,2,2
+131,330000,Apartamento, Estoril ,0,647,75,2,2
+132,480000,Apartamento, São Pedro ,0,851,69,2,1
+133,1250000,Apartamento, Buritis ,0,1351000,150,4,4
+134,160000,Apartamento, Lagoinha ,0,255,50,1,1
+135,250000,Apartamento, Sagrada Família ,0,422,50,2,1
+136,550000,Apartamento, São Lucas ,0,363,166,3,1
+137,370000,Apartamento, Grajaú ,0,383,115,3,1
+138,650000,Apartamento, Serra ,0,471,190,4,1
+139,299000,Apartamento, Serra ,0,342,85,3,1
+140,170000,Casa, Mantiqueira ,0,15,90,2,1
+141,290000,Apartamento, Carlos Prates ,0,567,70,3,1
+142,200000,Apartamento, Santa Terezinha ,0,350,65,2,2
+143,1280000,Apartamento, Serra ,0,1300,146,4,2
+144,350000,Apartamento, Jardim America ,0,444,111,3,1
+145,400000,Casa, Santa Terezinha ,0,84,150,2,2
+146,695000,Apartamento, Colégio Batista ,0,849,90,3,2
+147,490000,Apartamento, Sagrada Família ,0,550,136,4,1
+148,330000,Apartamento, Dom Joaquim ,0,550,55,2,1
+149,760000,Apartamento, Gutierrez ,0,908,95,3,2
+150,215000,Apartamento, Califórnia ,0,360,58,3,1
+151,380000,Apartamento, São Lucas ,0,515,100,3,1
+152,380000,Apartamento, Santo Antônio ,0,482,85,2,1
+153,650000,Apartamento, Santa Efigênia ,0,1417,81,2,1
+154,380000,Apartamento, São Francisco ,0,615,76,3,2
+155,300000,Casa, Solar do Barreiro (barreiro ,0,0,180,4,1
+156,380000,Apartamento, Santo Antônio ,0,482,85,2,1
+157,650000,Apartamento, Santa Efigênia ,0,1417,81,2,1
+158,380000,Apartamento, São Francisco ,0,615,76,3,2
+159,300000,Casa, Solar do Barreiro (barreiro ,0,0,180,4,1
+160,450000,Apartamento, Nova Suíça ,0,650,115,3,1
+161,480000,Casa, Santa Branca ,0,78,110,2,2
+162,325000,Apartamento, Jardim America ,0,338,71,3,1
+163,318000,Apartamento, Cidade Nova ,0,507,75,2,1
+164,290000,Apartamento, Dom Cabral ,0,510,60,3,1
+165,300000,Apartamento, Nova Suíça ,0,301,89,3,1
+166,440000,Apartamento, Santo Antônio ,0,730,105,3,1
+167,249000,Apartamento, Camargos ,0,479,52,2,1
+168,200000,Apartamento, Califórnia ,0,427,70,3,1
+169,550000,Apartamento, Sagrada Família ,0,525,98,3,2
+170,399000,Apartamento, Coração Eucarístico ,0,642,100,3,1
+171,380000,Apartamento, Palmeiras ,0,509,47,2,1
+172,790000,Apartamento, Nova Suíça ,0,797,200,4,2
+173,270000,Apartamento, Camargos ,0,525,47,2,1
+174,550000,Apartamento, Estoril ,0,577,140,3,3
+175,550000,Apartamento, Padre Eustáquio ,0,500,140,3,2
+176,290000,Apartamento, Manacás ,0,73,75,3,1
+177,320000,Apartamento, Cinquentenario ,0,435,74,2,1
+178,350000,Apartamento, Nova Suíça ,0,390,72,2,1
+179,435000,Apartamento, Alto Caiçaras ,0,435200,85,3,1
+180,500000,Apartamento, União ,0,250,49,2,1
+181,398000,Apartamento, Cidade Nova ,0,510,70,2,1
+182,280000,Apartamento, Fernão Dias ,0,387,52,2,1
+183,280000,Apartamento, Monsenhor Messias ,0,396,72,3,1
+184,295000,Casa em condomínio, Copacabana ,0,0,75,3,1
+185,490000,Apartamento, Luxemburgo ,0,588,111,3,1
+186,250000,Apartamento, Serrano ,0,180,60,2,1
+187,298000,Apartamento, Nova Suíça ,0,350,80,3,1
+188,850000,Apartamento, Luxemburgo ,0,815,69,2,2
+189,350000,Apartamento, Sagrada Família ,0,444,88,2,1
+190,820000,Casa, Nova Vista ,0,142,160,4,5
+191,295000,Apartamento, Ipiranga ,0,389,85,3,1
+192,820000,Casa, Nova Vista ,0,142,160,4,5
+193,295000,Apartamento, Ipiranga ,0,389,85,3,1
+194,530000,Casa, Santa Maria ,0,0,360,3,4
+195,455000,Apartamento, Jardim America ,0,400,140,3,1
+196,485000,Casa, São Cristóvão ,0,79,170,4,2
+197,650000,Apartamento, Santo Antônio ,0,870,120,2,1
+198,275000,Apartamento, Serra ,0,350,60,2,0
+199,500000,Casa, São Francisco ,0,350,500,2,3
+200,570000,Apartamento, Gutierrez ,0,644,102,3,1
+201,320000,Apartamento, Centro ,0,597,70,2,0
+202,830000,Apartamento, Buritis ,0,1010,97,3,2
+203,399900,Apartamento, Cidade Nova ,0,590,100,3,1
+204,300000,Casa, Paquetá ,0,100,64,2,1
+205,495000,Apartamento, Dona Clara ,0,587,136,3,2
+206,495000,Apartamento, Sagrada Família ,0,508,70,2,2
+207,293000,Apartamento, Havaí ,0,497,84,3,1
+208,550000,Apartamento, Serra ,0,978,120,3,2
+209,398000,Apartamento, Cruzeiro ,0,617,90,3,1
+210,550000,Apartamento, Buritis ,0,550,55,2,2
+211,750000,Apartamento, São Lucas ,0,850,75,3,2
+212,355000,Apartamento, Dom Bosco ,0,0,110,2,2
+213,450000,Apartamento, Liberdade ,0,403,120,3,1
+214,742000,Apartamento, Santo Antônio ,0,658,65,2,2
+215,260000,Apartamento, Monsenhor Messias ,0,325,45,2,1
+216,260000,Apartamento, Monsenhor Messias ,0,325,45,2,1
+217,270000,Apartamento, Milionários ,0,240,75,2,1
+218,550000,Apartamento, Santa Efigênia ,0,501,95,3,1
+219,1350000,Apartamento, Alto Caiçaras ,0,1641,150,4,3
+220,350000,Casa, Piratininga (venda Nova) ,0,0,280,4,2
+221,540000,Apartamento, Fernão Dias ,0,300,78,3,2
+222,550000,Apartamento, Dona Clara ,0,300,140,3,1
+223,480000,Apartamento, Buritis ,0,752,70,3,2
+224,495000,Apartamento, Santo Antônio ,0,565,80,2,1
+225,395000,Apartamento, Santo Antônio ,0,420,120,3,1
+226,360000,Apartamento, Camargos ,0,675,90,3,1
+227,350000,Apartamento, Floresta ,0,390,68,3,1
+228,925000,Apartamento, Buritis ,0,1384,110,4,2
+229,610000,Apartamento, Santa Efigênia ,0,636,75,2,2
+230,530000,Apartamento, Grajaú ,0,680,79,3,2
+231,360000,Apartamento, Centro ,0,560,114,3,0
+232,355000,Apartamento, Floresta ,0,347,60,1,1
+233,220000,Casa, Havaí ,0,0,180,3,0
+234,460000,Apartamento, Nova Suíssa ,0,444,95,3,1
+235,710000,Apartamento, Santo Antônio ,0,608,60,2,2
+236,720000,Apartamento, Serra ,0,1513,100,3,2
+237,390000,Apartamento, Castelo ,0,595,55,2,2
+238,550000,Apartamento, Santo Antônio ,0,705,125,3,1
+239,270000,Apartamento, Monsenhor Messias ,0,217,80,2,1
+240,360000,Apartamento, Serra ,0,475,70,2,1
+241,650000,Apartamento, Fernão Dias ,0,785,120,3,2
+242,1211000,Apartamento, Funcionários ,0,750,77,2,2
+243,345000,Apartamento, Palmeiras ,0,328,102,1,1
+244,490000,Apartamento, Jardim America ,0,701,123,2,2
+245,420000,Apartamento, Serrano ,0,588,58,2,1
+246,650000,Apartamento, Sagrada Família ,0,524,75,3,2
+247,360000,Apartamento, Sagrada Família ,0,264,70,3,1
+248,1600000,Apartamento, Sion ,0,1190,128,3,2
+249,300000,Apartamento, Sagrada Família ,0,250,55,2,1
+250,426000,Casa, Santa Ines ,0,34,72,2,1
+251,600000,Apartamento, Buritis ,0,490,130,3,2
+252,320000,Apartamento, Silveira ,0,410,67,3,1
+253,940000,Apartamento, Centro ,0,1732,132,3,2
+254,590000,Apartamento, Coração Eucarístico ,0,300,100,3,1
+255,399000,Apartamento, Carlos Prates ,0,733,80,3,1
+256,530000,Apartamento, Castelo ,0,498,76,2,2
+257,235000,Apartamento, Madre Gertrudes ,0,364,88,2,1
+258,690000,Apartamento, Sagrada Família ,0,982,180,4,3
+259,280000,Apartamento, Camargos ,0,444,49,2,1
+260,750000,Apartamento, Buritis ,0,939,85,3,2
+261,580000,Apartamento, Santa Inês ,0,520,82,3,2
+262,425000,Apartamento, Vila Paris ,0,559,110,3,1
+263,260000,Apartamento, Guarani ,0,0,63,3,1
+264,650000,Apartamento, Grajaú ,0,836,110,3,2
+265,450000,Casa, Céu Azul ,0,100,360,3,2
+266,545000,Apartamento, União ,0,624,87,3,2
+267,550000,Apartamento, Silveira ,0,560,95,3,2
+268,670000,Apartamento, Cidade Nova ,0,560,80,3,2
+269,265000,Apartamento, Guarani ,0,480,62,3,1
+270,700000,Apartamento, Buritis ,0,300,260,4,3
+271,530000,Apartamento, União ,0,1049,67,2,2
+272,400000,Apartamento, Jardim America ,0,518,106,3,1
+273,580000,Casa, Esplanada ,0,117,187,4,2
+274,595000,Apartamento, Sion ,0,690,43,1,1
+275,240000,Apartamento, Califórnia ,0,340,70,2,1
+276,290000,Apartamento, Aarão Reis ,0,274,62,3,2
+277,722000,Apartamento, Serra ,0,972,120,3,2
+278,230000,Apartamento, Coqueiros ,0,100,55,3,1
+279,250000,Apartamento, Madre Gertrudes ,0,265,75,2,1
+280,290000,Apartamento, Lagoinha ,0,269,120,2,1
+281,520000,Apartamento, Santa Terezinha ,0,259,190,3,1
+282,320000,Apartamento, São Lucas ,0,385,100,3,1
+283,520000,Apartamento, Santo Antônio ,0,760,75,3,1
+284,670000,Apartamento, Buritis ,0,1045,85,3,2
+285,330000,Apartamento, Ipiranga ,0,448,67,2,1
+286,240000,Apartamento, Milionários ,0,255,70,3,1
+287,720000,Apartamento, Anchieta ,0,881,105,3,1
+288,720000,Apartamento, Anchieta ,0,881,105,3,1
+289,205000,Apartamento, Olhos D’água ,0,270,72,2,1
+290,240000,Apartamento, Santa Maria ,0,386,51,2,1
+291,550000,Apartamento, Silveira ,0,811,90,3,2
+292,460000,Apartamento, Santa Terezinha ,0,328,100,3,1
+293,245000,Apartamento, Candelária ,0,525,55,2,1
+294,629000,Apartamento, Castelo ,0,679,76,3,2
+295,695000,Apartamento, Graça ,0,310,92,3,2
+296,420000,Apartamento, Camargos ,0,512,96,3,1
+297,530000,Apartamento, União ,0,1048,68,2,2
+298,650000,Casa, União ,0,211,300,3,7
+299,390000,Apartamento, Alto Barroca ,0,563,95,3,1
+300,365000,Apartamento, Boa Vista ,0,369,106,3,1
+301,500000,Apartamento, Santa Tereza ,0,0,95,3,1
+302,536000,Casa, Bonfim ,0,318,360,3,1
+303,510000,Apartamento, Santo Agostinho ,0,800,110,3,1
+304,695000,Apartamento, Ouro Preto ,0,400,92,3,2
+305,235000,Casa, Vila Nova Gameleira Ii ,0,0,90,2,0
+306,250000,Studio e kitnet, Havaí ,0,0,60,1,1
+307,480000,Apartamento, Cidade Nova ,0,537,110,3,1
+308,350000,Apartamento, Nova Gameleira ,0,692,110,3,1
+309,579000,Apartamento, Floresta ,0,431,120,3,1
+310,220000,Apartamento, Califórnia ,0,286,54,3,1
+311,460000,Apartamento, Sagrada Família ,0,651,80,3,1
+312,480000,Apartamento, Palmares ,0,525,134,3,2
+313,315000,Casa, São Gabriel ,0,35,180,2,1
+314,550000,Apartamento, Buritis ,0,700,90,3,2
+315,290000,Apartamento, Nova Granada ,0,250,72,3,1
+316,255000,Apartamento, Santa Branca ,0,481,55,2,1
+317,875000,Apartamento, Centro ,0,822,135,3,1
+318,500000,Apartamento, Cidade Nova ,0,665,95,3,3
+319,380000,Casa, Maria Goretti ,0,59,96,2,1
+320,770000,Apartamento, Sagrada Família ,0,930,90,3,3
+321,315000,Apartamento, Esplanada ,0,503,55,1,1
+322,700000,Apartamento, Nova Suíça ,0,280,180,3,2
+323,750000,Apartamento, Serra ,0,1067,69,2,2
+324,315000,Apartamento, Planalto ,0,543,58,2,1
+325,400000,Apartamento, Alto Barroca ,0,503,105,3,1
+326,740000,Apartamento, Barreiro ,0,625,130,3,2
+327,850000,Apartamento, Nova Floresta ,0,1003,150,4,2
+328,200000,Apartamento, Venda Nova ,0,260,57,2,1
+329,240000,Studio e kitnet, Sagrada Família ,0,250,25,1,1
+330,350000,Casa em condomínio, Copacabana ,0,118,110,2,1
+331,510000,Apartamento, Sagrada Família ,0,414,132,3,1
+332,285000,Apartamento, Ipiranga ,0,496,55,2,1
+333,260000,Apartamento, Conjunto Califórnia ,0,250,67,2,2
+334,750000,Apartamento, Santo Antônio ,0,851,120,3,2
+335,1100000,Apartamento, Buritis ,0,1525,117,4,3
+336,330000,Apartamento, Estrela Dalva ,0,403,82,3,1
+337,250000,Casa, São João Batista ,0,0,75,2,1
+338,310000,Apartamento, Carlos Prates ,0,375,65,2,2
+339,635000,Apartamento, Santo Antônio ,0,688,181,4,1
+340,330000,Casa, Céu Azul ,0,254,80,3,1
+341,350000,Apartamento, Nova Gameleira ,0,613,80,3,2
+342,220000,Apartamento, São Bernardo ,0,1,52,2,1
+343,480000,Apartamento, Sagrada Família ,0,0,92,2,2
+344,680000,Casa, Concórdia ,0,1,300,3,4
+345,495000,Apartamento, Palmares ,0,492,85,3,2
+346,630000,Apartamento, Jardim America ,0,725,90,3,1
+347,495000,Apartamento, Buritis ,0,709,85,3,2
+348,200000,Apartamento, Candelária ,0,75,60,2,0
+349,495000,Apartamento, Buritis ,0,709,85,3,2
+350,200000,Apartamento, Solar do Barreiro ,0,150,66,2,1
+351,520000,Apartamento, Buritis ,0,550,55,2,2
+352,852000,Apartamento, Sagrada Família ,0,0,120,2,3
+353,605000,Apartamento, Santo Antônio ,0,567,248,3,1
+354,330000,Apartamento, São Lucas ,0,341,90,3,1
+355,470000,Casa em condomínio, Santa Cruz ,0,325,98,3,1
+356,350000,Apartamento, Ipiranga ,0,555,93,2,1
+357,299000,Apartamento, Bonfim ,0,525,75,3,1
+358,525000,Apartamento, Buritis ,0,559,70,3,2
+359,395000,Casa, Diamante ,0,75,200,2,3
+360,690000,Apartamento, Centro ,0,899,80,2,1
+361,1150000,Apartamento, Alto Barroca ,0,775,143,3,4
+362,455000,Apartamento, São Lucas ,0,425,59,2,1
+363,1028000,Apartamento, Prado ,0,1150,90,3,3
+364,470000,Apartamento, Coracao de Jesus ,0,622,104,3,1
+365,350000,Apartamento, Ipiranga ,0,529,74,2,1
+366,705000,Apartamento, Heliópolis ,0,493,180,3,2
+367,264900,Apartamento, Camargos ,0,452,56,2,1
+368,650000,Apartamento, Castelo ,0,779,140,3,2
+369,269000,Apartamento, Havaí ,0,442,80,2,1
+370,195000,Apartamento, Glória ,0,334,55,2,1
+371,499900,Casa, Ipiranga ,0,0,90,2,1
+372,590000,Apartamento, Alto Barroca ,0,605,130,3,2
+373,250000,Apartamento, Ouro Preto ,0,290,47,2,1
+374,329000,Casa em condomínio, Santa Branca ,0,35,60,2,1
+375,600000,Apartamento, Luxemburgo ,0,829,50,1,1
+376,520000,Apartamento, Carlos Prates ,0,668,125,3,1
+377,150000,Apartamento, São Cristóvão ,0,0,50,3,0
+378,275000,Apartamento, Bandeirantes (pampulha) ,0,255,50,2,1
+379,639000,Apartamento, Coração Eucarístico ,0,416,80,3,2
+380,495000,Apartamento, Santa Efigênia ,0,297,90,3,1
+381,435000,Apartamento, Paquetá ,0,584,72,2,2
+382,480000,Apartamento, Heliópolis ,0,852,84,3,2
+383,490000,Apartamento, São Lucas ,0,529,200,4,2
+384,490000,Apartamento, São Lucas ,0,529,200,4,2
+385,795000,Apartamento, Sagrada Família ,0,557,140,3,2
+386,780000,Apartamento, Palmares ,0,1087,85,3,2
+387,264000,Apartamento, Dom Silverio ,0,270,70,2,1
+388,430000,Apartamento, Santa Cruz ,0,587,75,3,2
+389,670000,Apartamento, Gutierrez ,0,755,157,4,2
+390,270000,Apartamento, Candelária ,0,433,59,2,1
+391,406000,Apartamento, Floresta ,0,487,110,4,1
+392,290000,Apartamento, Nova Cachoeirinha ,0,585,70,3,1
+393,320000,Apartamento, Jardim Guanabara ,0,594,56,2,1
+394,185000,Apartamento, Jaqueline ,0,430,75,3,1
+395,789000,Apartamento, Ouro Preto ,0,256,141,2,3
+396,298000,Apartamento, Padre Eustáquio ,0,400,65,2,1
+397,350000,Apartamento, Maria Virgínia ,0,587,110,2,1
+398,250000,Apartamento, Copacabana ,0,150,90,3,1
+399,590000,Apartamento, Pampulha ,0,686,85,3,2
+400,530000,Apartamento, Santa Cruz ,0,380,110,3,2
+401,175000,Apartamento, Goiânia ,0,100,47,2,1
+402,560000,Apartamento, Itapoã ,0,275,83,3,2
+403,340000,Apartamento, Silveira ,0,500,55,3,1
+404,570000,Apartamento, Silveira ,0,806,132,3,3
+405,450000,Apartamento, Cidade Nova ,0,473,125,3,2
+406,320000,Casa, Jaqueline ,0,109,170,3,2
+407,690000,Apartamento, Fernão Dias ,0,576,106,3,2
+408,690000,Apartamento, Fernão Dias ,0,576,106,3,2
+409,695000,Apartamento, Buritis ,0,1055,95,3,2
+410,350000,Apartamento, Pindorama ,0,309,110,2,1
+411,499000,Apartamento, São Francisco ,0,598,70,2,2
+412,358000,Casa, Trevo ,0,0,160,2,2
+413,390000,Apartamento, Vila Magnesita ,0,323,102,3,1
+414,235000,Apartamento, Frei Leopoldo ,0,398,90,2,1
+415,280000,Apartamento, Ouro Preto ,0,340,59,2,1
+416,495000,Apartamento, Paquetá ,0,560,75,3,2
+417,699000,Casa, Floramar ,0,0,360,4,4
+418,580000,Casa, Sagrada Familia ,0,467,360,3,0
+419,585000,Apartamento, Santo Antônio ,0,1328,69,2,2
+420,420000,Apartamento, Carlos Prates ,0,832,68,3,2
+421,290000,Apartamento, Calafate ,0,274,64,3,1
+422,545000,Apartamento, Alto Caiçaras ,0,250,135,5,2
+423,250000,Casa, Miramar (barreiro) ,0,50,110,2,1
+424,500000,Casa, Piratininga (Venda Nova) ,0,150,360,3,2
+425,300000,Apartamento, Santo Andre ,0,550,75,3,1
+426,290000,Casa em condomínio, Céu Azul ,0,33,65,2,1
+427,520000,Apartamento, Cinquentenario ,0,690,140,3,1
+428,690600,Apartamento, Gutierrez ,0,175,173,4,3
+429,185000,Apartamento, Juliana ,0,190,49,2,1
+430,500000,Apartamento, Jardim América ,0,479,119,3,1
+431,450000,Apartamento, Jardim América ,0,334,75,3,1
+432,650000,Casa, Lagoinha ,0,117,300,4,2
+433,695000,Casa, Carlos Prates ,0,275,260,3,3
+434,688800,Apartamento, Paquetá ,0,1030,133,3,2
+435,275000,Apartamento, Planalto ,0,561,51,2,1
+436,458000,Apartamento, Vila Nova Vista ,0,717,62,2,1
+437,430000,Apartamento, Pompéia ,0,610,70,3,2
+438,580000,Apartamento, Horto ,0,150,105,3,2
+439,530400,Apartamento, Sagrada Família ,0,0,60,2,2
+440,695000,Apartamento, Ouro Preto ,0,400,92,3,2
+441,407000,Apartamento, Santa Efigênia ,0,491,90,3,0
+442,590000,Apartamento, Serra ,0,609,110,3,1
+443,495000,Apartamento, Santa Ines ,0,0,70,3,1
+444,470000,Apartamento, Fernão Dias ,0,501,120,2,2
+445,649000,Apartamento, Santa Efigênia ,0,200,85,3,2
+446,550000,Casa, Cachoeirinha ,0,93,140,3,2
+447,390000,Apartamento, Carlos Prates ,0,699,107,3,1
+448,570000,Apartamento, Nova Suíssa ,0,676,80,2,1
+449,450000,Apartamento, Dona Clara ,0,400,98,3,2
+450,692000,Apartamento, Estrela Dalva ,0,1001,70,2,2
+451,485000,Apartamento, Cidade Nova ,0,610,118,3,1
+452,450000,Apartamento, Dom Cabral ,0,885,76,3,1
+453,365000,Apartamento, São João Batista (Venda Nova) ,0,617,100,2,1
+454,390000,Apartamento, Serrano ,0,560,63,2,1
+455,285000,Apartamento, Candelária ,0,395,70,2,1
+456,285000,Apartamento, Candelária ,0,395,70,2,1
+457,385000,Apartamento, Sagrada Família ,0,473,74,2,1
+458,510000,Apartamento, Centro ,0,397,60,1,0
+459,495000,Apartamento, Heliópolis ,0,405,89,3,2
+460,780000,Apartamento, Nova Granada ,0,589,140,3,3
+461,590000,Apartamento, Centro ,0,1119,65,2,2
+462,370000,Apartamento, Barroca ,0,200,110,3,0
+463,330000,Apartamento, Santa Maria ,0,588,52,1,0
+464,320000,Apartamento, Havaí ,0,401,73,3,2
+465,350000,Apartamento, Ipiranga ,0,500,60,2,1
+466,580000,Apartamento, São Lucas ,0,650,97,3,2
+467,270000,Apartamento, Conjunto Califórnia ,0,250,67,2,2
+468,620000,Apartamento, Santa Rosa ,0,662,71,3,2
+469,330000,Apartamento, Paraíso ,0,379,76,2,1
+470,540900,Apartamento, Sagrada Família ,0,0,60,2,2
+471,480000,Casa, Campo Alegre ,0,130,200,3,4
+472,780000,Apartamento, Graça ,0,1168,73,3,2
+473,195000,Apartamento, Belmonte ,0,30,54,2,1
+474,750000,Apartamento, Caiçaras ,0,930,74,2,2
+475,450000,Casa, Diamante ,0,921,95,2,3
+476,489900,Apartamento, Betânia ,0,807,54,2,1
+477,380000,Apartamento, Graça ,0,630,70,2,1
+478,650000,Apartamento, Santo Antônio ,0,670,130,4,2
+479,293000,Apartamento, Xodó Marize ,0,360,54,2,1
+480,500000,Apartamento, Santa Ines ,0,580,90,3,2
+481,275000,Apartamento, Candelária ,0,721,60,2,1
+483,205000,Apartamento, Vila São Gabriel ,0,380,59,2,1
+484,450000,Apartamento, Fernão Dias ,0,334,53,2,2
+485,700000,Apartamento, Santo Antônio ,0,1256,133,3,2
+486,750000,Apartamento, Sagrada Família ,0,1145,105,3,4
+487,270000,Apartamento, Frei Leopoldo ,0,366,75,2,1
+488,320000,Apartamento, Ipiranga ,0,1,62,2,1
+489,440000,Apartamento, Cidade Nova ,0,382,65,2,1
+490,295000,Casa, 98 - Nova Cachoeirinha,0,140,70,2,1
+491,695000,Apartamento, Ouro Preto ,0,400,92,3,2
+492,200000,Apartamento, Frei Leopoldo ,0,225,60,2,1
+493,320000,Apartamento, Coqueiros ,0,0,58,2,1
+494,489000,Apartamento, Nova Vista ,0,567,99,2,2
+495,695000,Apartamento, Ouro Preto ,0,400,92,3,2
+496,489000,Apartamento, Nova Vista ,0,567,99,2,2
+497,295000,Apartamento, Vila Cloris ,0,425,58,2,1
+498,220000,Apartamento, Frei Leopoldo ,0,273,60,2,1
+499,430000,Casa, Pindorama ,0,115,173,3,2
+500,480000,Casa, São Marcos ,0,150,360,2,4
+501,570000,Apartamento, Castelo ,0,707,80,2,2
+502,695000,Apartamento, Ouro Preto ,0,400,92,3,2
+503,695000,Apartamento, Ouro Preto ,0,400,92,3,2
+504,580000,Apartamento, São Lucas ,0,650,97,3,2
+505,470000,Apartamento, Fernão Dias ,0,501,120,2,2
+506,390000,Apartamento, Nova Vista ,0,708,60,2,1
+507,580000,Apartamento, Jardim America ,0,712,70,3,3
+508,489900,Apartamento, Betânia ,0,807,54,2,1
+509,320000,Apartamento, Céu Azul ,0,260,65,2,2
+510,150000,Apartamento, Dom Bosco ,0,40,57,2,0
+511,690000,Apartamento, Sagrada Família ,0,467,180,3,2
+512,180000,Apartamento, Heliópolis ,0,335,50,2,1
+513,340000,Apartamento, Renascença ,0,300,85,2,0
+514,230000,Apartamento, Coqueiros ,0,100,55,3,1
+515,185000,Apartamento, Santa Amélia ,0,280,43,2,0
+516,395000,Apartamento, Vila Paris ,0,410,75,2,1
+517,800000,Apartamento, Grajaú ,0,801,93,4,2
+518,310000,Apartamento, Floresta ,0,720,70,2,0
+519,300000,Apartamento, Barroca ,0,295,64,2,1
+520,185000,Apartamento, Santa Amélia ,0,280,43,2,0
+521,650000,Casa, Nova Gameleira ,0,50,420,3,8
+522,450000,Apartamento, Santo Agostinho ,0,982,50,2,1
+523,379000,Apartamento, Alto Barroca ,0,360,80,3,1
+524,780000,Apartamento, Gutierrez ,0,810,65,2,2
+525,550000,Apartamento, Centro ,0,933,86,1,1
+526,279000,Apartamento, Horto ,0,330,50,2,1
+527,320000,Apartamento, Coração Eucarístico ,0,340,76,2,1
+528,698000,Apartamento, Santa Tereza ,0,733,62,2,2
+529,350000,Apartamento, Serra ,0,360,98,3,1
+530,950000,Apartamento, Sion ,0,1041,120,4,2
+531,310000,Apartamento, Centro ,0,680,130,3,0
+532,150000,Apartamento, Dom Bosco ,0,40,57,2,0
+533,620000,Apartamento, Buritis ,0,743,119,3,2
+534,820000,Apartamento, Buritis ,0,940,115,4,2
+535,580000,Apartamento, Gutierrez ,0,784,150,4,2
+536,480000,Apartamento, Havaí ,0,600,100,3,2
+537,399000,Apartamento, Funcionários ,0,987,34,1,1
+538,970000,Apartamento, Lourdes ,0,1225,80,2,2
+539,510000,Apartamento, Buritis ,0,470,58,2,2
+540,550000,Apartamento, Buritis ,0,708,100,3,2
+541,550000,Apartamento, Grajaú ,0,667,79,3,2
+542,245000,Apartamento, Maria Helena ,0,233,58,2,1
+543,680000,Casa em condomínio, Jardim Atlântico ,0,200,135,3,4
+544,520000,Apartamento, Buritis ,0,275,90,3,2
+545,720000,Apartamento, Vila Paris ,0,1383,169,3,2
+546,1090000,Apartamento, Gutierrez ,0,1200,125,4,2
+547,538000,Apartamento, Lourdes ,0,911,58,1,0
+548,500000,Apartamento, São Pedro ,0,899,63,2,2
+549,445000,Apartamento, Ouro Preto ,0,474,100,2,1
+550,370000,Apartamento, Nova Granada ,0,468,74,2,1
+551,350000,Apartamento, Calafate ,0,559,90,3,1
+552,560000,Apartamento, Grajaú ,0,240,90,3,2
+553,1350000,Apartamento, Carmo ,0,1800,112,3,3
+554,620000,Apartamento, Alto Barroca ,0,652,120,4,2
+555,775000,Apartamento, Luxemburgo ,0,1133,102,3,2
+556,1360000,Apartamento, Funcionários ,0,691,85,3,3
+557,1360000,Apartamento, Funcionários ,0,691,85,3,3
+558,1360000,Apartamento, Funcionários ,0,691,85,3,3
+559,595000,Apartamento, Funcionários ,0,1347,50,1,1
+560,645000,Apartamento, Buritis ,0,698,100,3,2
+561,250000,Apartamento, Planalto ,0,414,46,2,1
+562,255000,Apartamento, Carlos Prates ,0,484,76,3,1
+563,650000,Apartamento, Buritis ,0,471,60,2,2
+564,750000,Apartamento, Sagrada Família ,0,1145,105,3,4
+565,530000,Apartamento, Buritis ,0,584,160,3,2
+566,550000,Apartamento, Santa Efigênia ,0,501,95,3,1
+567,750000,Apartamento, Fernão Dias ,0,755,95,3,2
+568,460000,Casa, Renascença ,0,100,100,2,2
+569,320000,Apartamento, Ana Lúcia ,0,403,70,2,1
+570,925000,Apartamento, Buritis ,0,1384,110,4,2
+571,169000,Apartamento, Juliana ,0,274,48,2,1
+572,498000,Apartamento, Cruzeiro ,0,572,100,3,1
+573,250000,Apartamento, Lagoinha ,0,400,60,2,1
+574,485000,Apartamento, Salgado Filho ,0,481,75,3,2
+575,575000,Apartamento, Coracao de Jesus ,0,662,95,3,2
+576,330000,Apartamento, Padre Eustáquio ,0,748,73,3,1
+577,290000,Apartamento, Aparecida ,0,234,54,2,2
+578,150000,Casa, São Tomáz ,0,0,120,2,0
+579,250000,Apartamento, Caiçaras ,0,364,68,2,1
+580,425000,Apartamento, Salgado Filho ,0,375,70,3,1
+581,440000,Apartamento, Serra ,0,575,84,3,1
+582,279000,Apartamento, Dona Clara ,0,390,49,2,1
+583,750000,Apartamento, Dona Clara ,0,600,90,3,2
+584,700000,Apartamento, Gutierrez ,0,550,167,4,3
+585,350000,Apartamento, Santo Antônio ,0,725,42,1,1
+586,699000,Casa, Sagrada Família ,0,89,112,3,2
+587,397000,Apartamento, Venda Nova ,0,313,150,3,1
+588,350000,Apartamento, Lourdes ,0,650,52,1,0
+589,675000,Apartamento, Buritis ,0,1029,105,3,2
+590,620000,Apartamento, Floresta ,0,712,75,3,1
+591,620000,Apartamento, Serra ,0,950,77,3,2
+592,415000,Apartamento, Alto Barroca ,0,483,70,2,1
+593,260000,Apartamento, São Lucas ,0,507,50,2,1
+594,395000,Casa, Havaí ,0,83,110,2,1
+595,980000,Apartamento, Serra ,0,950,143,3,3
+596,395000,Apartamento, Sion ,0,608,70,2,1
+597,450000,Apartamento, Alto Barroca ,0,447,94,3,2
+598,340000,Apartamento, Estrela Dalva ,0,295,69,2,1
+599,380000,Apartamento, União ,0,613,55,2,2
+600,320000,Apartamento, Nova Suíça ,0,293,75,2,1
+601,565000,Apartamento, Palmeiras ,0,362,80,2,2
+602,251000,Apartamento, Santa Cruz ,0,220,70,3,1
+603,480000,Apartamento, Candelária ,0,381,72,3,2
+604,370000,Apartamento, Ouro Preto ,0,383,54,2,1
+605,580000,Apartamento, Palmeiras ,0,421,105,3,3
+606,180000,Apartamento, Heliópolis ,0,335,50,2,1
+607,720000,Apartamento, Anchieta ,0,1028,72,3,2
+608,720000,Apartamento, Vila Paris ,0,1057,104,3,2
+609,420000,Apartamento, Buritis ,0,793,60,2,2
+610,720000,Apartamento, Santa Rosa ,0,580,155,3,2
+611,560000,Casa, Jardim Atlântico ,0,167,180,2,2
+612,720000,Apartamento, Coração Eucarístico ,0,649,128,4,2
+613,460000,Apartamento, Ipiranga ,0,733,70,3,1
+614,330000,Apartamento, Maria Virgínia ,0,387,76,3,1
+615,425000,Apartamento, Grajaú ,0,546,87,3,1
+616,360000,Casa, Jardim Guanabara ,0,17,400,7,4
+617,600000,Apartamento, Manacás ,0,618,102,3,2
+618,375000,Apartamento, Cidade Nova ,0,560,52,2,1
+619,885000,Apartamento, Graça ,0,803,130,3,3
+620,470000,Apartamento, Sagrada Família ,0,609,127,3,2
+621,210000,Apartamento, Serra ,0,290,60,2,0
+622,360000,Apartamento, Sagrada Família ,0,331,58,3,1
+623,350000,Studio e kitnet, Estoril ,0,1045,29,1,1
+624,215000,Apartamento, Camargos ,0,421,50,2,1
+625,310000,Apartamento, Gutierrez ,0,452,70,2,1
+626,500000,Apartamento, Funcionários ,0,250,95,2,1
+627,345000,Apartamento, Dom Bosco ,0,397,60,2,1
+628,585000,Apartamento, Grajaú ,0,664,80,3,2
+629,490000,Apartamento, Cidade Nova ,0,575,154,3,2
+630,459000,Casa, Dona Clara ,0,189,170,4,1
+631,480000,Apartamento, Grajaú ,0,890,60,2,2
+632,480000,Apartamento, Alto Barroca ,0,493,110,3,1
+633,650000,Apartamento, Serra ,0,820,55,2,1
+634,350000,Apartamento, Dona Clara ,0,250,100,3,2
+635,690000,Apartamento, Sagrada Família ,0,1139,90,3,2
+636,430000,Casa, Santa Terezinha ,0,110,300,3,3
+637,550000,Apartamento, Sagrada Família ,0,898,92,3,2
+638,885000,Apartamento, Nova Suíça ,0,975,125,4,2
+639,560000,Apartamento, Jardim America ,0,641,81,3,2
+640,245000,Apartamento, Planalto ,0,245,54,2,1
+641,450000,Apartamento, Nova Granada ,0,563,80,3,1
+642,500000,Apartamento, Cidade Nova ,0,524,118,3,1
+643,520000,Apartamento, Castelo ,0,389,122,3,1
+644,385000,Apartamento, Padre Eustáquio ,0,500,62,2,2
+645,698000,Casa, Ipiranga ,0,117,160,3,3
+646,760000,Apartamento, Gutierrez ,0,600,60,2,2
+647,420000,Apartamento, Graça ,0,587,98,3,2
+648,190000,Apartamento, Santa Branca ,0,269,45,2,1
+649,670000,Apartamento, Prado ,0,747,75,3,1
+650,695000,Apartamento, Castelo ,0,751,128,3,3
+651,190000,Apartamento, Camargos ,0,420,52,2,0
+652,670000,Apartamento, Belo Horizonte - Mg,0,1134,105,3,2
+653,615000,Apartamento, Serra ,0,950,54,2,2
+654,399000,Apartamento, Santo Antônio ,0,551,95,3,1
+655,400000,Apartamento, Salgado Filho ,0,488,100,3,1
+656,690000,Apartamento, Prado ,0,772,74,3,2
+657,339000,Apartamento, Prado ,0,400,76,3,0
+658,460000,Apartamento, Ouro Preto ,0,584,67,2,1
+659,460000,Apartamento, Cruzeiro ,0,524,42,1,1
+660,930000,Apartamento, Horto Florestal ,0,1100,170,4,3
+661,290000,Apartamento, Vila Cloris ,0,160,60,2,1
+662,720000,Apartamento, Vila Paris ,0,1383,169,3,2
+663,650000,Apartamento, Santo Antônio ,0,614,180,4,1
+664,450000,Apartamento, Nova Granada ,0,563,80,3,1
+665,550000,Apartamento, Centro ,0,933,86,1,1
+666,480000,Apartamento, Havaí ,0,600,100,3,2
+667,490000,Apartamento, Ouro Preto ,0,529,133,3,2
+668,450000,Apartamento, Candelária ,0,475,72,3,2
+669,750000,Apartamento, Estoril ,0,867,80,3,2
+670,470000,Apartamento, Centro ,0,571,37,1,1
+671,470000,Apartamento, Centro ,0,569,37,1,1
+672,460000,Apartamento, Serra ,0,773,84,3,2
+673,850000,Apartamento, Serra ,0,1000,103,3,2
+674,385000,Apartamento, Prado ,0,430,110,3,0
+675,890000,Apartamento, Sagrada Família ,0,545,174,3,2
+676,350000,Casa, Renascença ,0,71,99,2,1
+677,280000,Apartamento, Nova Floresta ,0,601,65,2,1
+678,550000,Apartamento, Castelo ,0,429,118,3,2
+679,925000,Apartamento, Buritis ,0,1384,110,4,2
+680,525000,Apartamento, União ,0,300,62,2,2
+681,635000,Apartamento, Buritis ,0,1125,85,3,2
+682,635000,Apartamento, Sion ,0,1225,80,2,1
+683,1150000,Apartamento, Coração Eucarístico ,0,1080,152,3,3
+684,430000,Apartamento, Cidade Nova ,0,517,84,3,1
+685,679000,Apartamento, Paquetá ,0,1280,126,3,2
+686,285000,Apartamento, Vila São Gabriel ,0,291,50,2,1
+687,425000,Apartamento, Lourdes ,0,590,33,1,1
+688,329000,Apartamento, Álvaro Camargos ,0,317,60,2,1
+689,580000,Apartamento, Padre Eustáquio ,0,450,110,3,1
+690,239000,Apartamento, Manacás ,0,235,50,2,1
+691,620000,Apartamento, Cidade Nova ,0,500,172,3,3
+692,360000,Apartamento, Padre Eustáquio ,0,540,75,2,2
+693,200000,Apartamento, Califórnia ,0,150,55,2,1
+694,680000,Apartamento, Coração Eucarístico ,0,610,76,3,2
+695,690000,Apartamento, Boa Viagem ,0,775,50,1,2
+696,520000,Apartamento, Anchieta ,0,692,95,3,1
+697,650000,Apartamento, Lourdes ,0,865,115,3,0
+698,430000,Apartamento, Santa Cruz ,0,0,70,3,3
+699,570000,Apartamento, Sagrada Família ,0,740,86,3,2
+700,545000,Apartamento, Centro ,0,576,54,1,1
+701,550000,Apartamento, Sion ,0,533,100,3,1
+702,710000,Casa, Esplanada ,0,0,112,3,2
+703,699000,Apartamento, Castelo ,0,450,106,4,2
+704,250000,Casa em condomínio, São Gabriel ,0,171,58,2,1
+705,300000,Apartamento, Padre Eustáquio ,0,492,70,2,1
+706,395000,Apartamento, Buritis ,0,572,60,2,2
+707,495000,Apartamento, São Lucas ,0,518,180,4,2
+708,320000,Apartamento, Ana Lúcia ,0,403,70,2,1
+709,725000,Apartamento, Monsenhor Messias ,0,767,105,3,2
+710,150000,Apartamento, Juliana ,0,155,50,2,1
+711,949000,Apartamento, Santo Agostinho ,0,1141,67,2,1
+712,300000,Apartamento, Vila Cloris ,0,350,115,3,2
+713,295000,Apartamento, Aparecida ,0,308,83,3,1
+714,780000,Apartamento, Ipiranga ,0,634,170,3,2
+715,280000,Apartamento, Alto dos Pinheiros ,0,392,70,2,1
+716,230000,Apartamento, Coqueiros ,0,100,55,3,1
+717,1099000,Apartamento, Lourdes ,0,1100,113,2,1
+718,500000,Apartamento, Ouro Preto ,0,575,92,2,2
+719,550000,Apartamento, Cidade Nova ,0,518,104,3,2
+720,195000,Apartamento, Lugar Denominado Coqueiros ,0,362,55,2,1
+721,949000,Apartamento, Santo Agostinho ,0,1141,67,2,1
+722,300000,Apartamento, Vila Cloris ,0,350,115,3,2
+723,780000,Apartamento, Ipiranga ,0,634,170,3,2
+724,460000,Apartamento, Gutierrez ,0,430,96,3,1
+725,280000,Apartamento, Alto dos Pinheiros ,0,392,70,2,1
+726,1099000,Apartamento, Lourdes ,0,1100,113,2,1
+727,500000,Apartamento, Ouro Preto ,0,575,92,2,2
+728,550000,Apartamento, Cidade Nova ,0,518,104,3,2
+729,680000,Apartamento, Castelo ,0,600,100,3,2
+730,400000,Apartamento, Luxemburgo ,0,600,80,3,2
+731,185000,Apartamento, Guarujá ,0,2,45,2,1
+732,450000,Apartamento, Palmeiras ,0,529,88,2,2
+733,350000,Casa, Alto dos Pinheiros ,0,0,80,2,1
+734,285000,Apartamento, Santa Mônica ,0,463,60,2,1
+735,780000,Apartamento, Castelo ,0,594,85,3,2
+736,700000,Apartamento, Floresta ,0,950,76,3,2
+737,750000,Apartamento, Grajaú ,0,985,155,3,2
+738,390000,Apartamento, Alto Barroca ,0,563,95,3,1
+739,370000,Apartamento, Castelo ,0,584,53,2,1
+740,290000,Apartamento, Juliana ,0,317,44,2,1
+741,440000,Apartamento, Manacás ,0,333,61,2,2
+742,360000,Apartamento, Palmeiras ,0,558,74,2,1
+743,185000,Apartamento, Camargos ,0,150,49,2,1
+744,169000,Apartamento, Juliana ,0,274,48,2,1
+745,400000,Apartamento, Salgado Filho ,0,605,55,2,1
+746,720000,Apartamento, Lourdes ,0,684,125,3,2
+747,1100000,Apartamento, Buritis ,0,1525,117,4,3
+748,1235000,Apartamento, São Pedro ,0,1000,110,3,2
+749,690000,Apartamento, Anchieta ,0,750,200,3,1
+750,580000,Apartamento, Nova Suíça ,0,760,65,3,2
+751,450000,Apartamento, Carlos Prates ,0,948,70,3,2
+752,550000,Apartamento, Itapoã ,0,460,170,3,1
+753,295000,Apartamento, Salgado Filho ,0,194,66,2,1
+754,340000,Apartamento, Nova Suíça ,0,770,65,2,1
+755,450000,Apartamento, Serra ,0,530,112,3,2
+756,400000,Apartamento, Salgado Filho ,0,605,55,2,1
+757,720000,Apartamento, Lourdes ,0,684,125,3,2
+758,480000,Apartamento, Colégio Batista ,0,627,66,3,2
+759,1235000,Apartamento, São Pedro ,0,1000,110,3,2
+760,580000,Apartamento, Nova Suíça ,0,760,65,3,2
+761,450000,Apartamento, Carlos Prates ,0,948,70,3,2
+762,550000,Apartamento, Itapoã ,0,460,170,3,1
+763,295000,Apartamento, Salgado Filho ,0,194,66,2,1
+764,340000,Apartamento, Nova Suíça ,0,770,65,2,1
+765,450000,Casa, Juliana ,0,95,79,3,2
+766,450000,Apartamento, Serra ,0,530,112,3,2
+767,700000,Apartamento, Pompéia ,0,442,207,3,2
+768,680000,Casa, Concórdia ,0,1,300,3,4
+769,475000,Apartamento, Ouro Preto ,0,500,110,3,2
+770,499000,Apartamento, União ,0,284,72,2,2
+771,695000,Apartamento, Santo André ,0,367,200,3,2
+772,500000,Apartamento, Prado ,0,418,72,2,1
+773,780000,Apartamento, Buritis ,0,743,200,3,2
+774,340000,Apartamento, Padre Eustáquio ,0,730,78,3,2
+775,549000,Apartamento, Cinquentenario ,0,854,60,2,2
+776,430000,Apartamento, Nova Suíça ,0,300,100,3,1
+777,578000,Apartamento, Castelo ,0,549,85,3,2
+778,560000,Apartamento, Nova Suíça ,0,988,80,3,2
+779,270000,Apartamento, Piratininga ,0,290,76,3,1
+780,180000,Apartamento, Vila São Gabriel ,0,278,49,2,1
+781,310000,Apartamento, Ana Lúcia ,0,218,51,2,1
+782,570000,Apartamento, Sagrada Família ,0,811,132,3,2
+783,645000,Apartamento, Buritis ,0,892,120,4,2
+784,519000,Apartamento, Manacás ,0,297,63,2,2
+785,418000,Apartamento, Nova Granada ,0,557,75,3,1
+786,475000,Apartamento, Jardim Atlântico ,0,634,120,3,1
+788,490000,Apartamento, Horto ,0,749,59,2,2
+789,570000,Apartamento, Santa Efigênia ,0,415,80,2,2
+790,830000,Apartamento, Cidade Nova ,0,846,321,5,4
+791,500000,Apartamento, São Pedro ,0,498,100,3,1
+792,850000,Apartamento, Buritis ,0,949,83,3,2
+793,480000,Apartamento, Ipiranga ,0,560,90,3,1
+794,300000,Apartamento, Ouro Preto ,0,341,70,3,1
+795,630000,Casa em condomínio, Jardim America ,0,250,122,3,1
+796,950000,Apartamento, Castelo ,0,1073,90,3,2
+797,210000,Apartamento, Lagoinha ,0,450,65,2,0
+798,466500,Apartamento, Alto Caiçaras ,0,559,92,3,1
+799,600000,Apartamento, Coracao de Jesus ,0,690,80,2,1
+800,400000,Apartamento, Ouro Preto ,0,340,92,2,1
+801,420000,Apartamento, Palmares ,0,307,89,2,1
+802,450000,Apartamento, Sion ,0,600,60,2,1
+804,400000,Apartamento, Ana Lúcia ,0,920,104,2,1
+805,490000,Apartamento, Santo Antônio ,0,832,85,3,1
+806,490000,Apartamento, Serra ,0,595,127,3,1
+807,285000,Apartamento, Planalto ,0,459,53,2,1
+808,480000,Apartamento, Nova Vista ,0,420,88,3,2
+809,959800,Apartamento, Santo Agostinho ,0,1116,60,2,2
+810,360000,Casa, Santa Monica ,0,80,70,2,1
+811,690000,Apartamento, Paquetá ,0,729,88,3,2
+812,820000,Apartamento, Cruzeiro ,0,650,63,2,2
+813,390000,Apartamento, 36 - Brasil,0,280,70,3,1
+814,600000,Apartamento, Castelo ,0,527,85,3,2
+815,390000,Apartamento, Salgado Filho ,0,533,60,2,1
+816,150000,Apartamento, São Cristóvão ,0,0,50,3,0
+817,380000,Apartamento, Alto Barroca ,0,306,93,3,1
+818,250000,Apartamento, Itapoã ,0,230,60,2,1
+819,459000,Apartamento, Santa Amelia ,0,503,90,3,2
+820,250000,Apartamento, Maria Helena ,0,291,60,2,1
+821,330000,Apartamento, Jardim Guanabara ,0,610,55,2,1
+822,530000,Apartamento, Nova Granada ,0,517,200,3,2
+823,520000,Apartamento, Serra ,0,676,40,1,1
+824,570000,Apartamento, Diamante ,0,341,123,3,2
+825,725000,Apartamento, Padre Eustáquio ,0,518,92,3,2
+826,450000,Apartamento, Carlos Prates ,0,938,70,3,2
+827,250000,Casa, Piratininga ,0,95,65,2,1
+828,600000,Apartamento, São Lucas ,0,363,133,3,1
+829,445000,Casa, Santa Branca ,0,141,90,2,1
+830,650000,Apartamento, Sagrada Família ,0,955,92,3,1
+831,375000,Apartamento, Planalto ,0,769,85,3,2
+832,743000,Casa, Concórdia ,0,170,400,3,6
+833,365000,Apartamento, São Lucas ,0,685,70,2,1
+834,425000,Apartamento, Fernão Dias ,0,425,84,3,2
+835,510000,Apartamento, São Pedro ,0,528,103,3,1
+836,580000,Apartamento, Gutierrez ,0,703,110,3,1
+837,590000,Apartamento, Coração Eucarístico ,0,1067,75,3,2
+838,695000,Apartamento, Gutierrez ,0,690,105,3,1
+839,181000,Apartamento, São Gabriel ,0,388,44,2,1
+840,400000,Apartamento, Horto ,0,375,93,3,1
+841,280000,Apartamento, Indaiá ,0,380,70,2,1
+842,446000,Apartamento, Graça ,0,627,55,2,1
+843,840000,Apartamento, Lourdes ,0,982,67,2,1
+844,660000,Casa, Ouro Preto ,0,160,161,3,3
+845,734000,Apartamento, Padre Eustáquio ,0,675,78,3,2
+846,220000,Apartamento, Santa Terezinha ,0,512,60,2,0
+847,230000,Apartamento, Santa Branca ,0,269,55,2,1
+848,450000,Apartamento, Cidade Nova ,0,473,125,3,2
+849,500000,Apartamento, Cachoeirinha ,0,366,110,3,1
+850,395000,Apartamento, Estoril ,0,300,79,3,0
+851,440000,Apartamento, Nova Suíça ,0,534,87,3,1
+852,500000,Apartamento, Castelo ,0,573,90,2,2
+853,380000,Apartamento, Nova Suíça ,0,434,85,2,2
+854,650000,Apartamento, Santa Mônica ,0,492,110,3,2
+855,810000,Apartamento, Mangabeiras ,0,786,110,4,1
+856,530000,Apartamento, União ,0,583,91,3,3
+857,530000,Apartamento, Buritis ,0,584,160,3,2
+858,1046000,Apartamento, Santo Agostinho ,0,1116,67,2,2
+859,520000,Apartamento, Ipiranga ,0,712,69,2,1
+860,925000,Apartamento, Grajaú ,0,1100,110,3,2
+861,460000,Apartamento, Colégio Batista ,0,559,70,2,1
+862,750000,Apartamento, Barroca ,0,542,90,3,2
+863,930000,Apartamento, Horto Florestal ,0,1100,170,4,3
+864,245000,Apartamento, Milionários (barreiro) ,0,220,68,3,1
+865,580000,Apartamento, Cruzeiro ,0,601,98,3,1
+866,290000,Apartamento, Calafate ,0,274,64,3,1
+867,480000,Apartamento, Castelo ,0,537,70,2,2
+868,350000,Casa, São Bernardo ,0,32,90,2,1
+869,450000,Casa, Pindorama ,0,129,140,3,2
+870,460000,Casa, Renascença ,0,100,100,2,2
+871,450000,Apartamento, Ouro Preto ,0,375,56,2,1
+872,480000,Apartamento, Estoril ,0,417,100,3,2
+873,550000,Casa, Ipiranga ,0,0,90,2,1
+874,360000,Casa, Tupi ,0,25,100,3,0
+875,625000,Apartamento, Sagrada Família ,0,584,89,3,2
+876,470000,Apartamento, Grajaú ,0,725,100,3,1
+877,310000,Apartamento, Palmeiras ,0,404,70,2,1
+878,350000,Apartamento, Maria Virgínia ,0,586,94,2,1
+879,340000,Apartamento, Alto dos Pinheiros ,0,260,84,3,1
+880,289000,Apartamento, Heliópolis ,0,429,60,3,1
+881,490000,Apartamento, Ouro Preto ,0,529,133,3,2
+882,340000,Apartamento, Renascença ,0,300,85,2,0
+883,490000,Apartamento, Castelo ,0,580,58,2,2
+884,430000,Apartamento, Dom Bosco ,0,625,72,3,2
+885,495000,Apartamento, Itapoã ,0,478,85,3,2
+886,600000,Apartamento, Ouro Preto ,0,679,60,2,1
+887,239000,Apartamento, Heliópolis ,0,120,60,2,1
+888,550000,Apartamento, Dona Clara ,0,530,100,3,1
+889,650000,Apartamento, Caiçaras ,0,550,144,3,2
+890,695000,Apartamento, Buritis ,0,905,61,2,2
+891,285000,Apartamento, Ipiranga ,0,700,67,2,1
+892,470000,Apartamento, Fernão Dias ,0,501,120,2,2
+893,630000,Apartamento, Dona Clara ,0,604,85,3,2
+894,790000,Apartamento, Buritis ,0,817,117,3,2
+895,490000,Apartamento, Itapoã ,0,797,63,2,2
+896,470000,Apartamento, Dona Clara ,0,255,57,2,2
+897,495000,Apartamento, Silveira ,0,568,110,3,3
+898,399000,Apartamento, Estrela Dalva ,0,375,111,2,1
+899,360000,Apartamento, Sagrada Família ,0,250,37,1,2
+900,498000,Apartamento, Nova Vista ,0,922,100,3,1
+901,575000,Apartamento, Coracao de Jesus ,0,662,95,3,2
+902,470000,Apartamento, Betânia ,0,683,55,2,1
+903,695000,Apartamento, Gutierrez ,0,685,136,4,1
+904,470000,Apartamento, Centro ,0,569,37,1,1
+905,700000,Apartamento, Alto Caiçaras ,0,242,140,3,2
+906,260000,Apartamento, São Tomaz ,0,382,76,2,1
+907,360000,Apartamento, Serra ,0,250,101,3,0
+908,390000,Casa, Candelária ,0,120,100,2,3
+909,362000,Apartamento, Caiçaras ,0,420,65,2,1
+910,550000,Apartamento, Serra ,0,313,98,2,1
+911,275000,Apartamento, Camargos ,0,467,48,2,1
+912,470000,Apartamento, Centro ,0,569,37,1,1
+913,700000,Apartamento, Alto Caiçaras ,0,242,140,3,2
+914,370000,Apartamento, Vila Cloris ,0,410,63,2,1
+915,360000,Apartamento, Serra ,0,250,101,3,0
+916,390000,Casa, Candelária ,0,120,100,2,3
+917,362000,Apartamento, Caiçaras ,0,420,65,2,1
+918,550000,Apartamento, Serra ,0,313,98,2,1
+919,275000,Apartamento, Camargos ,0,467,48,2,1
+920,450000,Apartamento, Concórdia ,0,445,100,3,2
+921,277000,Apartamento, João Pinheiro ,0,278,60,2,1
+922,680000,Apartamento, Coracao de Jesus ,0,1337,52,1,1
+923,470000,Apartamento, Diamante ,0,1500,120,3,2
+924,250000,Apartamento, Ipiranga ,0,900,20,1,0
+925,690000,Apartamento, Serrano ,0,420,167,4,1
+926,450000,Apartamento, Caiçaras ,0,323,103,3,1
+927,780000,Apartamento, Graça ,0,1168,73,3,2
+928,270000,Apartamento, Camargos ,0,525,60,2,1
+929,280000,Apartamento, Renascença ,0,250,90,2,0
+930,489900,Apartamento, Betânia ,0,807,54,2,1
+931,650000,Apartamento, Santo Antônio ,0,670,130,4,2
+932,610000,Apartamento, Serra ,0,417,117,3,1
+933,499000,Casa, Vila Jardim Leblon ,0,30,125,2,2
+934,455000,Apartamento, União ,0,200,85,3,2
+935,390000,Apartamento, Ouro Preto ,0,400,60,2,2
+936,750000,Apartamento, Graça ,0,959,74,3,2
+937,610000,Apartamento, Serra ,0,417,117,3,1
+938,499000,Casa, Vila Jardim Leblon ,0,30,125,2,2
+939,455000,Apartamento, União ,0,200,85,3,2
+940,390000,Apartamento, Ouro Preto ,0,400,60,2,2
+941,230000,Apartamento, Piratininga (venda Nova) ,0,340,60,3,1
+942,489900,Apartamento, Candelária ,0,217,126,3,2
+943,425000,Apartamento, Darcy Vargas ,0,260,98,2,2
+944,260000,Apartamento, Santa Amélia ,0,425,49,2,1
+945,460000,Apartamento, Boa Vista ,0,457,120,2,1
+946,490000,Apartamento, Estrela Dalva ,0,393,144,2,1
+949,470000,Apartamento, Graça ,0,578,60,2,1
+950,650000,Apartamento, Santa Ines ,0,1051,110,3,2
+951,370000,Apartamento, Carlos Prates ,0,290,69,2,1
+952,750000,Apartamento, Estoril ,0,867,80,3,2
+953,750000,Apartamento, Sagrada Família ,0,1145,105,3,4
+954,330000,Apartamento, Lagoinha ,0,324,109,2,0
+955,660000,Apartamento, Buritis ,0,625,68,2,1
+956,500000,Apartamento, Luxemburgo ,0,760,130,3,1
+957,250000,Apartamento, Lagoinha ,0,400,60,2,1
+958,390000,Casa, Piratininga ,0,33,120,2,2
+959,470000,Apartamento, Serra ,0,883,110,3,1
+960,660000,Apartamento, Buritis ,0,625,68,2,1
+961,500000,Apartamento, Luxemburgo ,0,760,130,3,1
+962,250000,Apartamento, Lagoinha ,0,400,60,2,1
+963,390000,Casa, Piratininga ,0,33,120,2,2
+964,412000,Apartamento, Manacás ,0,278,62,2,1
+965,290000,Apartamento, Vila Cloris ,0,160,60,2,1
+966,550000,Apartamento, Ouro Preto ,0,614,67,2,1
+967,480000,Apartamento, Concórdia ,0,321,110,3,2
+968,470000,Apartamento, Centro ,0,571,37,1,1
+969,320000,Casa, Vila Copacabana ,0,34,53,2,1
+970,695000,Casa, Inconfidência ,0,170,360,3,2
+971,200000,Apartamento, Frei Leopoldo ,0,225,60,2,1
